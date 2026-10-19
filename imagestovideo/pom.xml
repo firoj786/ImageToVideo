@@ -27,7 +27,7 @@
 <dependency>
     <groupId>org.bytedeco</groupId>
     <artifactId>javacv</artifactId>
-    <version>1.0</version>
+    <version>1.5.14</version>
 </dependency>
 		
 		<dependency>
@@ -41,7 +41,7 @@
 		<dependency>
 			<groupId>org.bytedeco</groupId>
 			<artifactId>javacv</artifactId>
-			<version>1.0</version>
+			<version>1.5.14</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
